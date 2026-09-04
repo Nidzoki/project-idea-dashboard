@@ -1,0 +1,45 @@
+{
+  "collectedAt": "2026-01-01T00:00:00.000Z",
+  "stories": [
+    {
+      "id": 101,
+      "time": 1767225600,
+      "title": "Ask HN: A calmer way to plan small projects",
+      "text": "How do you keep a project small? <p>I would love a lightweight planning tool for focused builders.</p>",
+      "type": "story",
+      "feed": "ask"
+    },
+    {
+      "id": 102,
+      "time": 1767225600,
+      "title": "Show HN: A local-first project notebook",
+      "text": "I built a small React and TypeScript notebook that works offline.",
+      "url": "https://example.com/project-notebook",
+      "type": "story",
+      "feed": "show"
+    },
+    {
+      "id": 103,
+      "time": 1767225600,
+      "title": "Show HN: A local-first project notebook",
+      "text": "A duplicate title should be removed by normalization.",
+      "type": "story",
+      "feed": "show"
+    },
+    {
+      "id": 104,
+      "time": 1767225600,
+      "title": "Ask HN: Deleted idea",
+      "type": "story",
+      "dead": true,
+      "feed": "ask"
+    },
+    {
+      "id": 105,
+      "time": 1767225600,
+      "title": "A regular Hacker News story",
+      "type": "story",
+      "feed": "ask"
+    }
+  ]
+}

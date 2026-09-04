@@ -1,0 +1,40 @@
+{
+  "name": "project-idea-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "tsc -b --pretty false",
+    "collect:hn": "vite-node scripts/collect-hacker-news.ts",
+    "collect:hn:fixture": "npm run collect:hn -- --fixture",
+    "pipeline": "vite-node scripts/run-pipeline-cli.ts",
+    "pipeline:fixture": "npm run pipeline -- --fixture",
+    "enrich:fixture": "python scripts/enrich_with_youchat.py --fixture",
+    "enrich:youchat": "python scripts/enrich_with_youchat.py --enrich",
+    "enrich:fixture:dry-run": "python scripts/enrich_with_youchat.py --fixture --dry-run",
+    "enrich:youchat:dry-run": "python scripts/enrich_with_youchat.py --enrich --dry-run",
+    "enrich:gemini": "python scripts/enrich_with_gemini.py",
+    "enrich:gemini:dry-run": "python scripts/enrich_with_gemini.py --dry-run",
+    "test:python": "python -m unittest discover -s scripts -p \"test_*.py\""
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/node": "^22.10.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.5",
+    "vitest": "^2.1.8"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "https://openalex.org/W701",
+    "display_name": "Human-centred tools for small software projects",
+    "publication_date": "2025-12-30",
+    "type": "article",
+    "cited_by_count": 12,
+    "primary_topic": { "display_name": "Software Engineering" },
+    "topics": [{ "display_name": "Human-Computer Interaction" }]
+  },
+  {
+    "id": "https://openalex.org/W702",
+    "display_name": "An old software systems paper",
+    "publication_date": "2024-01-01",
+    "type": "article",
+    "cited_by_count": 2,
+    "primary_topic": { "display_name": "Software Engineering" }
+  },
+  {
+    "id": "https://openalex.org/W703",
+    "display_name": "A retracted paper",
+    "publication_date": "2025-12-22",
+    "type": "article",
+    "is_retracted": true
+  }
+]

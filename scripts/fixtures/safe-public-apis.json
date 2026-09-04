@@ -1,0 +1,80 @@
+{
+  "dataGovPackages": [
+    {
+      "id": "data-gov-projects",
+      "name": "data-gov-projects",
+      "title": "Public project datasets",
+      "notes": "A catalog of public project and civic datasets.",
+      "url": "https://catalog.data.gov/dataset/data-gov-projects",
+      "metadata_modified": "2025-12-30T00:00:00Z",
+      "organization": { "title": "Example agency" },
+      "license_title": "Public Domain"
+    }
+  ],
+  "worldBankIndicators": [
+    {
+      "id": "EXAMPLE.DATA",
+      "name": "Example open data indicator",
+      "lastupdated": "2025-12-30",
+      "source": { "value": "Example World Bank source" }
+    }
+  ],
+  "nasaApods": [
+    {
+      "date": "2025-12-31",
+      "title": "A nearby galaxy",
+      "url": "https://apod.nasa.gov/apod/image/example.jpg",
+      "media_type": "image",
+      "copyright": "Example Photographer"
+    }
+  ],
+  "wikimediaPages": [
+    {
+      "pageid": 9001,
+      "title": "File:Example technology diagram.svg",
+      "canonicalurl": "https://commons.wikimedia.org/wiki/File:Example_technology_diagram.svg",
+      "imageinfo": [
+        {
+          "timestamp": "2025-12-30T00:00:00Z",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Example_technology_diagram.svg",
+          "extmetadata": {
+            "LicenseShortName": { "value": "CC BY-SA 4.0" },
+            "Artist": { "value": "Example Creator" }
+          }
+        }
+      ]
+    }
+  ],
+  "devArticles": [
+    {
+      "id": 8001,
+      "title": "Build a smaller project planning workflow",
+      "description": "A short guide to focused project planning.",
+      "canonical_url": "https://dev.to/example/focused-project-planning",
+      "published_at": "2025-12-30T00:00:00Z",
+      "tag_list": ["productivity", "planning"],
+      "user": { "name": "Example Author" }
+    }
+  ],
+  "stackOverflowQuestions": [
+    {
+      "question_id": 7001,
+      "title": "How can a local-first app synchronize small notes?",
+      "link": "https://stackoverflow.com/questions/7001/example",
+      "creation_date": 1767052800,
+      "tags": ["javascript", "offline"],
+      "is_answered": false
+    }
+  ],
+  "euDatasets": [
+    {
+      "id": "eu-example-1",
+      "title": "European open software datasets",
+      "description": "Datasets for exploring public software activity.",
+      "landingPage": "https://data.europa.eu/data/datasets/eu-example-1",
+      "modified": "2025-12-30T00:00:00Z",
+      "license": "CC BY 4.0",
+      "publisher": { "name": "Example institution" }
+    }
+  ]
+}

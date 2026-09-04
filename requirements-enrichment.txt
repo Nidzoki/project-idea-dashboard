@@ -1,0 +1,3 @@
+# Optional, developer-only dependency. The static site and deterministic
+# pipeline do not require this package.
+ai4free

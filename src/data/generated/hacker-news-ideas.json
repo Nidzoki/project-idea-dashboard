@@ -1,0 +1,894 @@
+[
+  {
+    "id": "hn-49548600",
+    "title": "Who is using MCP in production?",
+    "summary": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them. If you’re using MCP in production, what are you using it fo...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "API",
+      "CLI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49548600",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49551096",
+    "title": "Why were OpenAI, Claude, and Grok simultaneously down?",
+    "summary": "https:&#x2F;&#x2F;status.openai.com https:&#x2F;&#x2F;status.claude.com https:&#x2F;&#x2F;status.x.ai ChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comments) Claude outage – Resolved - http...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49551096",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49555592",
+    "title": "Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsing, and it didn't...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49555592",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49535363",
+    "title": "30, burnt out, with 6-10 months of runway. What would you do?",
+    "summary": "After being let go from a small agency due to financial reasons, I find myself having at least 6-10 months of downtime for the first time in 10 years. I am around 30 and feel burnt out from my tech career. I do not feel any interest or h...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Next.js",
+      "Go"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49535363",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49522897",
+    "title": "Who is hiring? (September 2026)",
+    "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruit...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49522897",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49557875",
+    "title": "Who is using FPGA for ML inference?",
+    "summary": "With RAM price inflation, I wonder if FPGAs can be used to offload inference processing without keeping weights in RAM? The available RAM would be for activations, KV Cache, context but not static weights. Weights could be streamed from...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49557875",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49558794",
+    "title": "What is the ideal email domain setup?",
+    "summary": "For a long term setup what do you use? I am debating a few setups in fastmail. Generic custom domain with 1Password uniques for all online signups Also have a standard name@ here for in person provider sign ups A family domain purely giv...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49558794",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49522896",
+    "title": "Who wants to be hired? (September 2026)",
+    "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé&#x2F;CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job bo...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49522896",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49549602",
+    "title": "Founders that raised funding and shutdown, did you raise again?",
+    "summary": "Curious to know the number of repeat founders here who shutdown and raised again, or chose not to raise the second time. I bootstrapped, raised, shutdown, went solo again, thinking about next steps. Ultimately funding and the VC market i...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Next.js"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49549602",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49561016",
+    "title": "Why is HN native dark mode not implemented yet?",
+    "summary": "Long time user. I avoid opening HN during night just to avoid the glare. Is there any specific reason why native dark mode is not implemented yet? Let us know if you need a PR.",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49561016",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49552450",
+    "title": "Laptop or Desktop?",
+    "summary": "What portion of you all use a laptop versus a desktop and why? Ever since I got a laptop I've had recurring neck pain and issues from not being strict with desk setups and using laptops here and there instead of at a table. There is no g...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Go"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49552450",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49550324",
+    "title": "How do you guys keep up with the most cost-effective AI models?",
+    "summary": "I see lots of post on here discussing the most cost-effective models for coding and people swapping around a lot. I use Claude Code for 20 bucks a month, but I'm interested in trying out other models. Do you guys have a website that rank...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49550324",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49560168",
+    "title": "Why do many websites use a sign-in code instead of a password?",
+    "summary": "I've noticed several websites that exclusively a single-use login code for authentication. This is a 4-digit or 6-digit login code sent via email instead of a password, it's not 2FA or a passkey. (I would rather they don't do this as it...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49560168",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49557687",
+    "title": "Is there a test for measuring cognitive affects from LLM usage?",
+    "summary": "A part of me feels like I may be loosing my ability to think. Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49557687",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49559724",
+    "title": "How do you market Open Source Software?",
+    "summary": "We are planning to move our software from closed to open source, and we are looking on how we can market this product to reach our target market. Btw: Its an alternative to Zendesk, Jira, and linear.",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49559724",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49547405",
+    "title": "Are technical blogs dead?",
+    "summary": "I think the traffic for technical blogs has plummeted. Why would anyone searh for technical blog when they can just ask their agent about it? Also I am seeing less and less of them here on hacker news.",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49547405",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49556698",
+    "title": "How do we build a team? (bootstrapped B2B startup)",
+    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here becaus...",
+    "category": "Community",
+    "difficulty": "Starter",
+    "technologies": [
+      "Go"
+    ],
+    "source": "Hacker News · Ask HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Turn a clearly described community problem into a small, testable product direction.",
+    "suggestedSteps": [
+      "Rewrite the problem as one user outcome",
+      "Sketch the smallest useful workflow",
+      "Validate the idea with the people who experience it"
+    ],
+    "color": "green",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49556698",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49549148",
+    "title": "Reactor Atlas",
+    "summary": "Hi HN, I'm a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain s...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Postgres",
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49549148",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49563463",
+    "title": "Million Bricks – a 3D tower of one million bricks you can buy for $10",
+    "summary": "A product or experiment shared with the Hacker News community: Million Bricks – a 3D tower of one million bricks you can buy for $10.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49563463",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49563390",
+    "title": "What if AI did the prompting – and humans did the thinking?",
+    "summary": "The agent asks you questions until you have clarity on what to do. Experimenting with this idea through AntiAgent. I'd love Hacker News to challenge this idea.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49563390",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49550479",
+    "title": "I made a word building game supporting anagrams and one handed use",
+    "summary": "Hi everyone, Wanted to share a game I built. It's called Unscramble! and I believe it's the simplest word building game. Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Go"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49550479",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49561903",
+    "title": "Aurict – An open-source Terminal AI",
+    "summary": "A product or experiment shared with the Hacker News community: Aurict – An open-source Terminal AI.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49561903",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49562157",
+    "title": "Prices.eu.org",
+    "summary": "When Ox-alpha was free I had it build this EU price index&#x2F;tracker (the build took 40+ hours). Gemini deep research found the sources. Currently it tracks: - Fuel - Electricity - Currency - Housing - Groceries - Wages - Purchasing power",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49562157",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49528506",
+    "title": "OwnTime – a chess clock for your day's priorities",
+    "summary": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of \"roles\" from \"The 5 Choices\" (2015), and my repeated failure to effectively implement time blocking due to the ne...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Go",
+      "SQLite"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49528506",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49561280",
+    "title": "Interactive map of the Japanese address system",
+    "summary": "I had a hard time understanding the Japanese address system. Parts of addresses have suffixes like fu, shi, ku, chōme, ban and gō. Which suffixes are used varies between regions in a way that seemed random to me. I couldn't find a map of...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49561280",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49528057",
+    "title": "HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "summary": "Hi! Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\". So I had abacus.ai whip one up. The methodology is pretty simple, data...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49528057",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49545411",
+    "title": "The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+    "summary": "A product or experiment shared with the Hacker News community: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49545411",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49550515",
+    "title": "Real-time AI news aggregator with daily digest",
+    "summary": "A product or experiment shared with the Hacker News community: Real-time AI news aggregator with daily digest.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49550515",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49524469",
+    "title": "Newton's Orchard – Browser-based space/gravity playground",
+    "summary": "Hi HN! My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity&#x2F;space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims&#x2F;pla...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49524469",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49528895",
+    "title": "Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search,...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49528895",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49553252",
+    "title": "Wordmate – local speech-to-text for macOS",
+    "summary": "Hi HN! I built Wordmate because I wanted WisprFlow-style dictation locally on my machine. It’s a free macOS app. Audio and transcripts never leave your Mac. Speech recognition uses Parakeet and optional post-processing uses a tuned Qwen3...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49553252",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49553092",
+    "title": "A gravity simulator where forces propagate at the speed of light",
+    "summary": "A product or experiment shared with the Hacker News community: A gravity simulator where forces propagate at the speed of light.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49553092",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49548962",
+    "title": "I built my first MCP to manage Google Ads",
+    "summary": "My co-founder and I tried running Google Ads for our Shopify store, but we could not get a positive ROAS (we spent 150USD on a single conversion). As we also could not afford an agency, we turned to AI (IMO Codex >>> Claude Code). We fou...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AI"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49548962",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49560595",
+    "title": "Word42, a wordprocessor inspired by MS Word and Abiword",
+    "summary": "A product or experiment shared with the Hacker News community: Word42, a wordprocessor inspired by MS Word and Abiword.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49560595",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49536481",
+    "title": "asciiQuake",
+    "summary": "A product or experiment shared with the Hacker News community: asciiQuake.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49536481",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49524447",
+    "title": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "summary": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-streaming. Easy to install&#x2F;update,...",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Next.js"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49524447",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  },
+  {
+    "id": "hn-49550016",
+    "title": "A benchmark for flight search intent",
+    "summary": "A product or experiment shared with the Hacker News community: A benchmark for flight search intent.",
+    "category": "Developer Tools",
+    "difficulty": "Intermediate",
+    "technologies": [
+      "Web"
+    ],
+    "source": "Hacker News · Show HN",
+    "datasetTools": "Hacker News public API",
+    "whyBuildIt": "Study a real launch, then turn the underlying problem into a focused build.",
+    "suggestedSteps": [
+      "Read the original launch post and identify its smallest promise",
+      "Define a focused first version",
+      "Test the workflow with a few target users"
+    ],
+    "color": "blue",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49550016",
+    "license": "Hacker News public API (see usage note)",
+    "usageNote": "Story metadata is collected from the public Hacker News API; linked content remains owned by its authors.",
+    "collectedAt": "2026-09-04T13:40:36.589Z",
+    "approved": false
+  }
+]
